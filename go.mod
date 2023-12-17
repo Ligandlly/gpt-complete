@@ -1,4 +1,4 @@
-module github.com/ligandlly/complete
+module github.com/ligandlly/gpt-complete
 
 go 1.21.5
 
